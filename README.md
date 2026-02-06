@@ -1,5 +1,6 @@
 ## Python Recap
 
 # Tool used -:
+- Jypyter lab
 - Google coalb
-- Run Every File 
+- Run Every Single File 
